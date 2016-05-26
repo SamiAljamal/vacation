@@ -1,0 +1,12 @@
+.glyphicon {
+  font-size: 3em;
+  text-align: center;
+  color: red;
+  display: block;
+}
+
+.col-md-4 h2 {text-align: center;}
+
+.carousel img{
+ max-height: 500px;  
+}
